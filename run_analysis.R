@@ -51,3 +51,4 @@ tidyDS<-data.frame(mean_std)
 
 # Write out the data - Meets step 5 requirement
 write.table(tidyDS, "tidyds.txt", row.names=FALSE, quote=FALSE)
+
